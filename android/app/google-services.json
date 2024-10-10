@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325962037535",
+    "project_id": "fir-77d21",
+    "storage_bucket": "fir-77d21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325962037535:android:9fb21893f5731f51c7d82a",
+        "android_client_info": {
+          "package_name": "com.example.doan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZtGdG0i6aM8LTfjYqinDQ6d--kerCzGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
